@@ -8,7 +8,6 @@ This project analyzes customer shopping data to perform customer segmentation us
 
 ## Files
 - `Customer_Segmentation_Analysis.ipynb`: Jupyter Notebook with the complete analysis and simulation.
-- `requirements.txt`: List of Python packages required to run the project.
 
 ## Getting Started
 
